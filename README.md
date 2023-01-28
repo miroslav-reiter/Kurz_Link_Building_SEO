@@ -11,7 +11,7 @@ Kurz Linkbuilding je pre teba skvelou voľbou, ak sa chceš naučiť budovať od
 4. [LinkLifting](https://linklifting.com/)
 5. [Ahrefs Website Authority Checker Backlink Checker / Backlink Checker / Broken Link Checker](https://ahrefs.com/website-authority-checker)
 
-## :hammer_and_wrench: Nástroje na SEO a Klasifikačnú Analýzu Kľúčových Slov
+## 🔨 Nástroje na SEO a Klasifikačnú Analýzu Kľúčových Slov
 1. [**Google Plánovač Kľúčových Slov/Google Keyword Planner**](https://ads.google.com/aw/keywordplanner), Google Search Console, Google Trends
 2. [**Skladač Fráz pre Google AdWords**](http://kw.tre.sk/sk)
 3. [**Ultimate PPC Keyword Concatenation Tool**](https://www.found.co.uk/ppc-keyword-tool/)
