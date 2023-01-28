@@ -11,12 +11,41 @@ Kurz Linkbuilding je pre teba skvelou voľbou, ak sa chceš naučiť budovať od
 4. [LinkLifting](https://linklifting.com/)
 5. [Ahrefs Website Authority Checker Backlink Checker / Backlink Checker / Broken Link Checker](https://ahrefs.com/website-authority-checker)
 
-# 📚 Odporúčané zdroje
+## :hammer_and_wrench: Nástroje na SEO a Klasifikačnú Analýzu Kľúčových Slov
+1. [**Google Plánovač Kľúčových Slov/Google Keyword Planner**](https://ads.google.com/aw/keywordplanner), Google Search Console, Google Trends
+2. [**Skladač Fráz pre Google AdWords**](http://kw.tre.sk/sk)
+3. [**Ultimate PPC Keyword Concatenation Tool**](https://www.found.co.uk/ppc-keyword-tool/)
+4. Microsoft Excel, Open Office, Libre Office, Google Tabuľky/Google Sheets, [Google Open Refine](https://openrefine.org/)
+5. [**Keyword Tool**](https://www.keywordtool.io)
+6. [**Longtail Keyword Research Tool**](https://www.keyword.io)
+7. [**Wordtracker**](https://www.wordtracker.com/)
+8. [**MOZ**](https://moz.com/products)
+9. [**Ahrefs**](https://www.ahrefs.com/)
+10. [**Majestic SEO**](https://majestic.com/)
+11. [**Semrush**](https://www.semrush.com/)
+12. [**ubersuggest**](https://neilpatel.com/ubersuggest/)
+13. [**Raven**](https://raven.com)
+13. [**Screaming Frog**](https://www.screamingfrog.co.uk/seo-spider/)
+14. [**Collabim CZ/SK**](https://www.collabim.cz/sk)
+15. [**Marketing Miner CZ/SK**](https://www.marketingminer.com/sk)
+16. [**LuigiBox CZ/SK**](https://www.luigibox.com/)
 
+# 📚 Odporúčané zdroje
+1. [MOZ - The Beginner's Guide to Link Building](https://moz.com/beginners-guide-to-link-building)
+1. []()
+1. [MarketingMiner - Co je to Link Building a jak na něj s pomocí MM](https://www.marketingminer.com/sk/blog/link-building-co-to-je.html)
+1. [Unrlvd - Off-page SEO Techniques – Five steps to increase your domain authority](https://www.unrvld.com/viewpoint/off-page-seo-techniques)
+1. [Gradeta - Spätné Odkazy](https://gradeta.sk/seo/odkazy)
 
 # 📏 Štruktúra (Anatómia) Hypertextového Odkazu
-![carbon](https://user-images.githubusercontent.com/24510943/215289258-9e4c33e2-55d3-4ee9-81ab-ceb97798063f.png)
+1. Začiatok značky odkazu: Označuje sa ako značka ukotvenia (odtiaľ "a"), otvára značku odkazu a informuje prehliadače a vyhľadávače, že bude nasledovať odkaz na niečo iné.
+2. Umiestnenie odkazu: „href“ znamená „hyperlinkový odkaz“ a text v úvodzovkách označuje adresu URL, na ktorú odkaz smeruje. Nemusí to byť vždy webová stránka; môže to byť adresa obrázka alebo súboru na stiahnutie. Občas uvidíte niečo iné ako URL, začínajúce znakom #. Tieto odkazy vás presmerujú na konkrétnu časť adresy URL.
+3. Viditeľný/ukotvený text odkazu: Toto je malý kúsok textu, ktorý používatelia vidia na stránke a na ktorý musia kliknúť, ak chcú odkaz otvoriť. Text je zvyčajne nejakým spôsobom naformátovaný tak, aby sa odlišoval od textu, ktorý ho obklopuje, často modrou farbou a/alebo podčiarknutím, čo používateľom signalizuje, že ide o odkaz, na ktorý sa dá kliknúť.
+4. Uzavretie značky odkazu: Toto signalizuje koniec značky odkazu vyhľadávacím nástrojom.
 
+![odkaz](https://user-images.githubusercontent.com/24510943/215290580-db405ec0-5190-4088-9bca-87f46b46d672.png)
+
+## 🔖 Značky (Tagy) a Elementy</h2>
 ```html
 <h1>Štruktúra (Anatómia) Hypertextového Odkazu</h1>
 <h2>Značky (Tagy) a Elementy</h2>
@@ -80,3 +109,5 @@ Kurz Linkbuilding je pre teba skvelou voľbou, ak sa chceš naučiť budovať od
 <!-- Bez UTM Parametrov Potom Neviem Odkiaľ Prišiel Daný Používateľ -->
 <a href="https://www.vita.sk"  target="_blank" rel="noopener noreferrer">VITA | Online Kurzy a Školenia</a>
 ```
+![carbon](https://user-images.githubusercontent.com/24510943/215289258-9e4c33e2-55d3-4ee9-81ab-ceb97798063f.png)
+
