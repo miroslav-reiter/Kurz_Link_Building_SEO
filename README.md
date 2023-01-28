@@ -42,10 +42,10 @@ Kurz Linkbuilding je pre teba skvelou voľbou, ak sa chceš naučiť budovať od
 1. [Gradeta - Linkbuilding](https://gradeta.sk/kategoria/linkbuilding)
 
 # 📏 Štruktúra (Anatómia) Hypertextového Odkazu
-**1. Začiatok značky odkazu:** Označuje sa ako značka ukotvenia (odtiaľ "a"), otvára značku odkazu a informuje prehliadače a vyhľadávače, že bude nasledovať odkaz na niečo iné.
-**2. Umiestnenie odkazu:** „href“ znamená „hyperlinkový odkaz“ a text v úvodzovkách označuje adresu URL, na ktorú odkaz smeruje. Nemusí to byť vždy webová stránka; môže to byť adresa obrázka alebo súboru na stiahnutie. Občas uvidíte niečo iné ako URL, začínajúce znakom #. Tieto odkazy vás presmerujú na konkrétnu časť adresy URL.
-**3. Viditeľný/ukotvený text odkazu:** Toto je malý kúsok textu, ktorý používatelia vidia na stránke a na ktorý musia kliknúť, ak chcú odkaz otvoriť. Text je zvyčajne nejakým spôsobom naformátovaný tak, aby sa odlišoval od textu, ktorý ho obklopuje, často modrou farbou a/alebo podčiarknutím, čo používateľom signalizuje, že ide o odkaz, na ktorý sa dá kliknúť.
-**4. Uzavretie značky odkazu:** Toto signalizuje koniec značky odkazu vyhľadávacím nástrojom.
+**1. Začiatok značky odkazu:** Označuje sa ako značka ukotvenia (odtiaľ "a"), otvára značku odkazu a informuje prehliadače a vyhľadávače, že bude nasledovať odkaz na niečo iné.  
+**2. Umiestnenie odkazu:** „href“ znamená „hyperlinkový odkaz“ a text v úvodzovkách označuje adresu URL, na ktorú odkaz smeruje. Nemusí to byť vždy webová stránka; môže to byť adresa obrázka alebo súboru na stiahnutie. Občas uvidíte niečo iné ako URL, začínajúce znakom #. Tieto odkazy vás presmerujú na konkrétnu časť adresy URL.  
+**3. Viditeľný/ukotvený text odkazu:** Toto je malý kúsok textu, ktorý používatelia vidia na stránke a na ktorý musia kliknúť, ak chcú odkaz otvoriť. Text je zvyčajne nejakým spôsobom naformátovaný tak, aby sa odlišoval od textu, ktorý ho obklopuje, často modrou farbou a/alebo podčiarknutím, čo používateľom signalizuje, že ide o odkaz, na ktorý sa dá kliknúť.  
+**4. Uzavretie značky odkazu:** Toto signalizuje koniec značky odkazu vyhľadávacím nástrojom.  
 
 ![odkaz](https://user-images.githubusercontent.com/24510943/215290580-db405ec0-5190-4088-9bca-87f46b46d672.png)
 
