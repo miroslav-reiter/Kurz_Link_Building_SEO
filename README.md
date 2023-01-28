@@ -1,5 +1,5 @@
 # 🔗 Kurz Link Building a SEO
-💼 Materiály ku kurzu [Link Building](https://www.it-academy.sk/kurz/linkbuilding-i-zaciatocnik/) a SEO
+💼 Materiály ku kurzu [Link Building](https://www.it-academy.sk/kurz/linkbuilding-i-zaciatocnik/) a [SEO](https://www.it-academy.sk/kurz/zaklady-seo-optimalizacia-pre-vyhladavace-i/)
 
 📑 Anotácia a Osnova kurzu
 Kurz Linkbuilding je pre teba skvelou voľbou, ak sa chceš naučiť budovať odkazový profil pre svoj web. Osvojíš si základné zásady linkbuildingu a vhodné nástroje, ktoré ti pomôžu. Na konkrétnych postupoch a ukážkach ťa naučíme efektívne získavať vhodné odkazy a priviesť na svoj web viac návštevníkov. Ako absolvent kurzu Linkbuilding zvládneš pre svoj web získavať relevantné a cenné odkazy.
