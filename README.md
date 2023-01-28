@@ -18,39 +18,59 @@ Kurz Linkbuilding je pre teba skvelou voľbou, ak sa chceš naučiť budovať od
 ![carbon](https://user-images.githubusercontent.com/24510943/215289258-9e4c33e2-55d3-4ee9-81ab-ceb97798063f.png)
 
 ```html
+<h1>Štruktúra (Anatómia) Hypertextového Odkazu</h1>
+<h2>Značky (Tagy) a Elementy</h2>
 <!-- SK Otváracia Značka, Odkaz na Sprostredkované Miesto, Vidit. Text Odkazu, Uzatváracia Značka -->
 <!-- EN Start Tag, Link Referral Location, Visible/Anchor Text Link, Close Tag -->
 <a href="https://www.vita.sk">VITA | Online Kurzy a Školenia</a>
-
+```
+```html
+<h2>Atribúty rel a ich Hodnoty</h2>  
+<h3>Atribút rel=follow/nofollow</h3>
 <!-- rel - Atribút, ktorý Rieši Vzťah Predávania Odkazovej Štavy Crawlerom -->
 <!-- rel="nofollow" - Nechceme, aby Crawler Prechádzal Daný Odkaz a Prenášal Odkazovú Štavu -->
 <a href="https://www.vita.sk" rel="follow">VITA | Online Kurzy a Školenia</a>
 <a href="https://www.vita.sk" rel="nofollow">VITA | Online Kurzy a Školenia</a>
-
+```
+```html
+<h3>Atribút rel=sponsored</h3>
 <!-- rel="sponsored" - Označenie Odkazu, že Ide o Platený Odkaz (Nákup Odkazu, Články, PR)-->
-<a href="https://www.vita.sk" rel="sponsored" hreflang="sk"> VITA | Online Kurzy a Školenia</a>
-
+<a href="https://www.vita.sk" rel="sponsored"> VITA | Online Kurzy a Školenia</a>
+```
+```html
+<h3>Atribút rel=ugc</h3> 
 <!-- rel="ugc" - Označenie Odkazu, že Ide o Používateľmi Generovaný/Vytvorený Odkaz. Napríklad Používatelia Tvoria a Píšu Obsah s Odkazmi v Komentároch -->
 <!-- rel="ugc" - User Generated Content -->
-<a href="https://www.vita.sk" rel="ugc" hreflang="sk"> VITA | Online Kurzy a Školenia</a>
-
+<a href="https://www.vita.sk" rel="ugc"> VITA | Online Kurzy a Školenia</a>
+```
+```html
+<h2>Atribút title</h2>  
 <!-- title - Titulok, Rozšírené Informácie o Kontexte Odkazu -->
-<a href="https://www.vita.sk" title="Akreditované Online Kurzy a Školenia">  VITA | Online Kurzy a Školenia</a>
-
+<a href="https://www.vita.sk" title="Akreditované Online Kurzy a Školenia">
+  VITA | Online Kurzy a Školenia</a>
+```
+```html
+<h2>Atribút hreflang</h2>  
 <!-- hreflang - Špecifikácia Jazyka Cieľovej Destinácie Odkazu -->
 <a href="https://www.vita.sk" hreflang="sk"> VITA | Online Kurzy a Školenia</a>
 <a href="https://www.vita.sk"  hreflang="en"> VITA | Online Courses</a>
-
+```
+```html
+<h2>Atribút target</h2>  
 <!-- target="_self" - Atribút target Určuje Ako sa Má Odkaz Otvoriť -->
 <!-- target="_self" - Po Kliknutí na Odkaz sa Otvorí v Rovnakom Okne/Tabe Prehliadača -->
 <a href="https://www.vita.sk" target="_self"> VITA | Online Kurzy a Školenia</a>
-
+```
+```html
 <!-- target="_blank" - Po Kliknutí na Odkaz sa Otvorí v Novom Okne/Tabe Prehliadača -->
 <!-- target="_blank" - Po-Pupy a Možné Bezpečnostné Riziko -->
 <a href="https://www.vita.sk"  target="_blank"> VITA | Online Kurzy a Školenia</a>
-
+```
+```html
+<h2>Atribút rel noopener noreferrer</h2>  
 <!-- rel="noopener noreferrer" - noopener Zabraňuje Phisingu t.j. kradnutiu Informácií zo Zdrojovej Stránky, pretože Zabraňuje Zneužitie JavaScript Funkcie window.opener -->
 <!-- rel="noopener noreferrer" - noreferrer Zaraňuje Prehliadači Poslať Cieľovej Stránky Informácie o Stránke, Odkiaľ Prišiel Používateľ Pomocou HTTP Hlavičky -->
 <!-- Bez UTM Parametrov Potom Neviem Odkiaľ Prišiel Daný Používateľ -->
-<a href="https://www.vita.sk"  target="_blank" rel="noopener noreferrer">VITA | Online Kurzy a Školenia</a>
+<a href="https://www.vita.sk"  target="_blank" rel="noopener noreferrer">
+  VITA | Online Kurzy a Školenia</a>
 ```
