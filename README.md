@@ -60,10 +60,10 @@ Kurz Linkbuilding je pre teba skvelou voľbou, ak sa chceš naučiť budovať od
 ## Atribúty rel a ich Hodnoty
 ```html
 <h2>Atribúty rel a ich Hodnoty</h2>  
-<h3>Atribút rel=follow/nofollow</h3>
+<h3>Atribút rel=dofollow/nofollow</h3>
 <!-- rel - Atribút, ktorý Rieši Vzťah Predávania Odkazovej Štavy Crawlerom -->
 <!-- rel="nofollow" - Nechceme, aby Crawler Prechádzal Daný Odkaz a Prenášal Odkazovú Štavu -->
-<a href="https://www.vita.sk" rel="follow">VITA | Online Kurzy a Školenia</a>
+<a href="https://www.vita.sk" rel="dofollow">VITA | Online Kurzy a Školenia</a>
 <a href="https://www.vita.sk" rel="nofollow">VITA | Online Kurzy a Školenia</a>
 ```
 ### 🔥 Atribút rel=sponsored
@@ -116,6 +116,28 @@ Kurz Linkbuilding je pre teba skvelou voľbou, ak sa chceš naučiť budovať od
 ![carbon](https://user-images.githubusercontent.com/24510943/215289258-9e4c33e2-55d3-4ee9-81ab-ceb97798063f.png)
 
 ## 📐 Proces Link Buildingu a jeho metriky
+### Základné Ciele
+1. Budovanie Reputácie (Autority)
+1. Zvýšenie Viditelnosti
+1. Zvýšenie Organickej Návštevnosti
+1. Nové Objednávky, Leady a Zákazníci
+
+### Základné Metriky
+1. Sila/Autorita Domény (DA Domain Authority DR Domain Rating)
+2. Sila/Autorita Stránky (PA Page Authority)
+3. Text Kotvy (Anchor Text)
+4. Relevantnosť Prepojenej Stránky (Relevance Linking Page)
+5. Počet Odkazov (Number of Links)
+6. Pozícia Odkazov na Stránke (Position Links Page)
+7. Cena za Odkaz (Cost Per Link)
+8. Prepojenie Koreňových Domén (Linking Root Domains)
+
+Spam Score
+Ranking Keywords
+Trust Flow a Topical Trust Flow
+Citaction Flow 
+Ling Graph a Link Profile
+
 ![Link-Building-Vyhodnocovanie drawio](https://user-images.githubusercontent.com/24510943/215334512-d16dea2e-aa07-4a63-8fa2-7d87dd80d577.png)
 
 
