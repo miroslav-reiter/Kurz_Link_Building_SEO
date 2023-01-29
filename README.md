@@ -115,3 +115,7 @@ Kurz Linkbuilding je pre teba skvelou voľbou, ak sa chceš naučiť budovať od
 ```
 ![carbon](https://user-images.githubusercontent.com/24510943/215289258-9e4c33e2-55d3-4ee9-81ab-ceb97798063f.png)
 
+## 📐 Proces Link Buildingu a jeho metriky
+![Link-Building-Vyhodnocovanie drawio](https://user-images.githubusercontent.com/24510943/215334512-d16dea2e-aa07-4a63-8fa2-7d87dd80d577.png)
+
+
