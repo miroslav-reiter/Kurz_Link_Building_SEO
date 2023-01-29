@@ -132,11 +132,11 @@ Kurz Linkbuilding je pre teba skvelou voľbou, ak sa chceš naučiť budovať od
 7. Cena za Odkaz (Cost Per Link)
 8. Prepojenie Koreňových Domén (Linking Root Domains)
 
-Spam Score
-Ranking Keywords
-Trust Flow a Topical Trust Flow
-Citaction Flow 
-Ling Graph a Link Profile
+Spam Score  
+Ranking Keywords  
+Trust Flow a Topical Trust Flow  
+Citaction Flow   
+Ling Graph a Link Profile  
 
 ![Link-Building-Vyhodnocovanie drawio](https://user-images.githubusercontent.com/24510943/215334512-d16dea2e-aa07-4a63-8fa2-7d87dd80d577.png)
 
